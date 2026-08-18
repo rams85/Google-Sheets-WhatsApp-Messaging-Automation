@@ -67,12 +67,10 @@ The workflow reads the messaging information from Google Sheets.
 
 The sheet contains information such as:
 
-🔄 How the Automation Works
-Step 1 — Google Sheets
-
-The workflow reads the messaging information from Google Sheets.
-
-The sheet contains information such as:
+Name
+Phone
+Message
+Status
 
 ### Workflow
 
