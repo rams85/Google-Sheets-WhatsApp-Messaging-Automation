@@ -45,13 +45,5 @@ Instead of manually copying phone numbers and messages and sending them individu
 │ WhatsApp Recipient   │
 └──────────────────────┘
 
-## 🚀 Features
 
-Read WhatsApp recipient information from Google Sheets.
-Process multiple contacts using n8n.
-Dynamically generate WhatsApp messages.
-Send messages through WhatsApp Cloud API.
-Use API authentication securely through n8n credentials.
-Automate repetitive WhatsApp communication.
-Build a reusable automation workflow.
-Can be extended with status tracking and error handling.
+
