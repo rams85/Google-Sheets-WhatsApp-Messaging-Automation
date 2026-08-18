@@ -45,7 +45,8 @@ Instead of manually copying phone numbers and messages and sending them individu
 │ WhatsApp Recipient   │
 └──────────────────────┘
 
-## ✨ Features
+## 🚀 Features
+
 Read WhatsApp recipient information from Google Sheets.
 Process multiple contacts using n8n.
 Dynamically generate WhatsApp messages.
